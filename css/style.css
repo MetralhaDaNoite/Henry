@@ -1,9 +1,9 @@
 body {
-  background-color: #faf3e0;
+  background-color: #e7e7de;
 }
 
 hr {
-  background-color: #b68973;
+  background-color: #008891;
   border-style: none;
   height: 2px;
   width: 8%;
@@ -11,13 +11,13 @@ hr {
 
 h1 {
   text-decoration: underline;
-  color: #1e212d;
+  color: #0f3057;
 }
 
 a {
-  color: #b68973;
+  color: #00587a;
 }
 
 p {
-  color: #b68973;
+  color: #0f3057;
 }

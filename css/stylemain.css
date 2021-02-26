@@ -18,13 +18,13 @@ img {
 li a {
   display: block;
   width: 200px;
-  color: #b68973;
+  color: #008891;
   height: 20px;
 }
 
 li a:hover {
-  background-color: #eabf9f;
-  color: #1e212d;
+  background-color: #0f3057;
+  color: #e7e7de;
 }
 
 ul {
