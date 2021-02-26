@@ -1,0 +1,32 @@
+img {
+  height: 35px;
+  background-color: #28527a;
+}
+
+.nav {
+  text-align: center;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  width: 200px;
+  color: #b68973;
+  height: 20px;
+}
+
+li a:hover {
+  background-color: #eabf9f;
+  color: #1e212d;
+}
+
+ul {
+  overflow: hidden;
+}
