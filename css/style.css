@@ -12,6 +12,7 @@ hr {
 h1 {
   text-decoration: underline;
   color: #0f3057;
+  text-align: center;
 }
 
 a {
@@ -20,4 +21,11 @@ a {
 
 p {
   color: #0f3057;
+  text-align: center;
+}
+
+h3 {
+  text-decoration: underline;
+  color: #0f3057;
+  text-align: center;
 }
