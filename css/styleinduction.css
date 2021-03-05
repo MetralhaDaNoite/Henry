@@ -1,0 +1,27 @@
+.nav {
+  text-align: center;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  display: inline-block;
+}
+
+li a {
+  display: block;
+  width: 200px;
+  color: #008891;
+  height: 20px;
+}
+
+li a:hover {
+  background-color: #0f3057;
+  color: #e7e7de;
+}
+
+ul {
+  overflow: hidden;
+}
